@@ -16,6 +16,14 @@ traP 部員が日常的に使う部内で運用している SNS「traQ」のフ�
 ![traQ開発環境の様子](traQ_dev_fig.png)
 traQ 開発環境の様子
 
+#### Qall
+traQ内で画面共有・ビデオ通話を可能にする機能です。[LiveKit](https://livekit.com)を利用して実装しました。
+一般的な音声・ビデオ通話の他、スタンプを押して反応する機能、Qallを行っているチャンネルに投稿した内容を弾幕として表示する機能、ノイズキャンセリング機能、複数の動画トラックを一つの端末から配信する機能、一つのアカウントから複数の端末で通話に参加する機能、バーチャル背景機能(画像、動画および配信画面)、ウェビナー機能など様々なニーズに対応可能な機能を持っています。
+<img width="1224" height="688" alt="image" src="https://github.com/user-attachments/assets/af1f6912-e503-40d1-95e8-1a53aa23c10b" />
+<img width="1217" height="740" alt="image" src="https://github.com/user-attachments/assets/cea25760-fc46-46aa-b358-3558e4d568e2" />
+<img width="1222" height="804" alt="image" src="https://github.com/user-attachments/assets/6f60ef7c-4167-4235-849a-6c43211c9f18" />
+
+
 ### ELEGO
 
 <img width="3840" height="2160" alt="ELEGO_TITLE" src="https://github.com/user-attachments/assets/5d289941-5c6f-4cfe-9e76-e7a482391b37" />
