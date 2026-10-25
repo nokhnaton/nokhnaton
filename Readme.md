@@ -39,6 +39,15 @@ traQ内で画面共有・ビデオ通話を可能にする機能です。[LiveKi
 
 [ELEGOのPV](ELEGO_PV.mp4)
 
+### Starry Notes
+バーチャルライブを行うプロジェクトです。東京科学大学大岡山キャンパスの工大祭などで今まで2回開催しています。
+主にモーション周りのソフトウェアや修正作業、キャラクターやプロジェクトの世界観の構成などに携わっています。
+
+blog
+https://trap.jp/tag/starrynotes/
+公式X
+https://x.com/StarryNotestraP
+
 ### [web エンジニアになろう講習会](https://traptitech.github.io/naro-text/?ref=trap.jp)
 
 traP 新入部員や web 初心者の部員を対象にした、web 開発の基礎を学ぶ講習会です。講習会は座学編と実習編で構成されており、座学編で基本的な概念や全体像を確認した後、実習編で実際に作成することで理解を深めていく構成になっています。<br />
